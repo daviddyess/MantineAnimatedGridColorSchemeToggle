@@ -24,8 +24,7 @@ return (
         duration={2000}
         fadeOutDuration={6000}
         transition
-        />
-    </Group>
+    />
 );
 ```
 
