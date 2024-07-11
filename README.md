@@ -9,9 +9,9 @@ Created with assistance from Claude AI
 
 ### Props
 
-`duration` - length of animation
-`fadeOutDuration` - length of fade out after animation
-`transition` - if false it's just a regular color scheme toggle with no animation
+- `duration` - length of animation
+- `fadeOutDuration` - length of fade out after animation
+- `transition` - if false it's just a regular color scheme toggle with no animation
 
 ### Example usage:
 
